@@ -1,7 +1,7 @@
 ### About me
 
-- 🧑‍💼: I’m currently working on Framework
-- 🌱: I’m currently try to learning Dart
+- 🧑‍💼: I’m currently working on Framework 💜
+- 🌱: I am currently learning Java 🤓
 - 📫: How to contact me:
   - Email: teodoro.contato@hotmail.com
 
